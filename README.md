@@ -5,7 +5,7 @@ Welcome to my GitHub! 🚀 I'm a passionate web-developer who loves crafting mod
 ---
 
 ## 🚀 About Me
-🎨 **Frontend & Backend Developer** I create seamless, interactive user experiences.  
+🎨 **Frontend & Backend Developer** - I create seamless, interactive user experiences.  
 ⚡ **Tech Stack:** HTML | CSS | EJS | JavaScript | React | Node.js | Express | MongoDB | Bootstrap  
 📚 **Lifelong Learner:** Always diving into new frameworks and best practices.  
 💬 **Let's Talk!** I’d love to connect and collaborate.  
