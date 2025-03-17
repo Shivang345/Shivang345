@@ -1,12 +1,12 @@
-# 👋 Hey there, I'm [Your Name]!
+# 👋 Hey there, I'm Shivang Jaswal!
 
-Welcome to my GitHub! 🚀 I'm a passionate developer who loves crafting modern, responsive, and dynamic web applications. I'm always exploring new technologies and pushing my creative boundaries. Let's build something amazing together! ✨
+Welcome to my GitHub! 🚀 I'm a passionate web-developer who loves crafting modern, responsive, and dynamic web applications. I'm always exploring new technologies and pushing my creative boundaries. Let's build something amazing together! ✨
 
 ---
 
 ## 🚀 About Me
-🎨 **Frontend & Backend Developer** – I create seamless, interactive user experiences.  
-⚡ **Tech Stack:** JavaScript | React | Node.js | Express | MongoDB | Bootstrap   
+🎨 **Frontend & Backend Developer** I create seamless, interactive user experiences.  
+⚡ **Tech Stack:** HTML | CSS | EJS | JavaScript | React | Node.js | Express | MongoDB | Bootstrap
 📚 **Lifelong Learner:** Always diving into new frameworks and best practices.  
 💬 **Let's Talk!** I’d love to connect and collaborate.  
 
