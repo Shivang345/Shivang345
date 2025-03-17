@@ -14,8 +14,8 @@
 
 # PROJECTS
 
-🔹 ## WanderWave – A modern, responsive travel website made by using Frontend Tools.
-🔹 ## Pinterest-Inspired Project – A visual content-sharing platform which lets us add different users and they can post independently as well.
+## WanderWave – A modern, responsive travel website made by using Frontend Tools.
+## Pinterest-Inspired Project – A visual content-sharing platform which lets us add different users and they can post independently as well.
 
 # Connect With Me
 
