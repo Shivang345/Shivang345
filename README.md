@@ -13,8 +13,8 @@ Welcome to my GitHub! 🚀 I'm a passionate web-developer who loves crafting mod
 ---
 
 ## 📌 Featured Projects
-🔹 **[WanderWave](https://github.com/yourusername/wanderwave)** – A visually rich, responsive travel website. 🌍✨  
-🔹 **[Pinterest-Inspired Project](https://github.com/yourusername/pinterest-clone)** – A creative content-sharing platform. 🎨📌  
+🔹 **[WanderWave](https://github.com/Shivang345/wanderwave)** – A visually rich, responsive travel website. 🌍✨  
+🔹 **[Pinterest-Inspired Project](https://github.com/Shivang345/Pinterest-Clone)** – A creative content-sharing platform. 🎨📌  
 
 📍 Check out my full portfolio **[here](https://yourportfolio.com)**. 🚀
 
