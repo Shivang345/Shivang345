@@ -21,7 +21,7 @@ Welcome to my GitHub! 🚀 I'm a passionate developer who loves crafting modern,
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]((https://www.linkedin.com/in/shivang-jaswal-b3bb2b346/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/shivang-jaswal-b3bb2b346/)
 [![Twitter](https://img.shields.io/badge/Twitter-Connect-blue?logo=twitter)]((https://x.com/JaswalShivang))
 
 Thanks for stopping by! Let's innovate and create something awesome! 🚀😃
